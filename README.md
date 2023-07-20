@@ -1,6 +1,6 @@
 ## Homework Instructions
-MBAI 401 Tech Onramp<br>
-Suggested completion date: 09/02/21
+MSAI 305 Intensive Program Design<br>
+Due date: 08/04/23
 
 Test Instructions
 ---
